@@ -114,3 +114,12 @@
         width: 400px;
     }
 }
+
+@media (max-width: 450px) {
+    .container-contacto{
+        width: 350px;
+    }
+    .container-contacto .contacto-item{
+        width: 300px;
+    }
+}
