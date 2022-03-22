@@ -40,7 +40,7 @@ const MenuHamb = () => {
                             <Link style={stylesLinks} onClick={changeValueMenu} to="proyectos" spy={true} smooth={true} offset={-100} duration={500} >Proyectos</Link>
                         </div>
                         <div className="links">
-                            <Link style={stylesLinks} onClick={changeValueMenu} to="contacto" spy={true} smooth={true} offset={-170} duration={500} >Contacto</Link>
+                            <Link style={stylesLinks} onClick={changeValueMenu} to="contacto" spy={true} smooth={true} offset={-125} duration={500} >Contacto</Link>
                         </div>
                     </div>
                 </div> }
