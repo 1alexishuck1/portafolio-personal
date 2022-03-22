@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83f85621.css",
+    "main.js": "/static/js/main.87d92351.js",
+    "static/media/fondo-main.png": "/static/media/fondo-main.bc37963ed73dd0c37f77.png",
+    "static/media/proyecto-Películas.png": "/static/media/proyecto-Películas.d2a8bd9f2cf9e0da597e.png",
+    "static/media/proyecto-CentroMedico.png": "/static/media/proyecto-CentroMedico.155a07aa9d468de90ddb.png",
+    "static/media/proyecto-ML.png": "/static/media/proyecto-ML.f3ac4121a4b83151bba9.png",
+    "static/media/react.png": "/static/media/react.a544fd8cf64d82898e91.png",
+    "static/media/html.png": "/static/media/html.860d906ddaa16acfecda.png",
+    "static/media/python.png": "/static/media/python.f0c9d64775aac23759fe.png",
+    "static/media/javascript-logo.png": "/static/media/javascript-logo.ba0fa51f4f9a26a96349.png",
+    "static/media/xd.png": "/static/media/xd.1a32d3584fdaf7213333.png",
+    "static/media/img-perfil.jpg": "/static/media/img-perfil.92a60018a88129eaa2f4.jpg",
+    "static/media/figma.png": "/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "index.html": "/index.html",
+    "main.83f85621.css.map": "/static/css/main.83f85621.css.map",
+    "main.87d92351.js.map": "/static/js/main.87d92351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f85621.css",
+    "static/js/main.87d92351.js"
+  ]
+}
