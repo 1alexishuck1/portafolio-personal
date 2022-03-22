@@ -1,0 +1,116 @@
+.container-titulo-cont{
+    text-align: center;
+}
+
+.contacto{
+    margin-top: 150px;
+}
+
+.container-titulo-cont h1{
+    margin-top: 15px;
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    margin-bottom: 15px
+}
+
+.container-contacto{
+    width: 50%;
+    height: 310px;
+    margin: auto;
+    background-color: #CA3E47;
+    box-shadow: 0 0 10px #000;
+    border-radius: 5px;
+    margin-bottom: 120px;
+}
+
+.container-contacto .contacto-item{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-contacto .contacto-item label{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: #fff;
+}
+
+#contacto{
+    opacity: 0;
+}
+
+.container-contacto .contacto-item input{
+    height: 25px;
+    border: none;
+    border-radius: 2.5px;
+    padding-left: 5px;
+    outline: none;
+    box-shadow: 0 0 5px #000;
+}
+
+.container-contacto .contacto-item textarea{
+    border: none;
+    height: 100px;
+    border-radius: 2.5px;
+    outline: none;
+    padding-left: 5px;
+    box-shadow: 0 0 5px #000;
+}
+
+.container-contacto .contacto-item input[type="submit"]{
+    width: 100px;
+    margin-top: 15px !important;
+    margin: auto;
+    background-color: #313131;
+    color: #fff;
+    box-shadow: 0 0 5px #000;
+}
+
+.container-contacto .contacto-item p{
+    text-align: start;
+    color:#fff;
+    width: 195px;
+}
+
+@media (max-width: 1150px) {
+    .container-contacto{
+        width: 750px;
+    }
+}
+
+@media (max-width: 780px) {
+    .container-contacto{
+        width: 650px;
+    }
+    .container-contacto .contacto-item{
+        width: 600px;
+    }
+}
+
+@media (max-width: 690px) {
+    .container-contacto{
+        width: 550px;
+    }
+    .container-contacto .contacto-item{
+        width: 500px;
+    }
+}
+
+@media (max-width: 590px) {
+    .container-contacto{
+        width: 480px;
+    }
+    .container-contacto .contacto-item{
+        width: 450px;
+    }
+}
+
+@media (max-width: 500px) {
+    .container-contacto{
+        width: 450px;
+    }
+    .container-contacto .contacto-item{
+        width: 400px;
+    }
+}
