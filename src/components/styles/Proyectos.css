@@ -94,3 +94,17 @@
         margin-left: -50px;
     }
 }
+
+@media (max-width: 450px) {
+    .container-proyectos-card{
+        width: 350px;
+    }
+    .container-proyectos-card .card-proy{
+        width: 350px;
+        height: 270px;
+    }
+    .container-proyectos-card .card-proy .card-img img{
+        width: 350px;
+        margin: auto;
+    }
+}
