@@ -66,3 +66,14 @@
     }
 }
 
+@media (max-width: 450px) {
+    .container-card-hab{
+        width: 350px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(8, 110px);
+    }
+    .container-card-hab .card-hab img{
+        margin-left: 125px;
+    }
+}
+
