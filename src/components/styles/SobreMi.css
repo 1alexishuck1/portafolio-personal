@@ -164,3 +164,20 @@
     }
 
 }
+
+@media (max-width: 450px) {
+    .container-sobremi{
+        width: 350px;
+        height: 750px;
+    }
+    .container-sobremi .sobremi-img img{
+        margin-left: -37.5px;
+    }
+    .container-sobremi .sobremi-texto{
+        width: 340px;
+    }
+    .container-sobremi .container-btn-CVL button{
+        width: 160px !important;
+        margin-top: 10px;
+    }
+}
